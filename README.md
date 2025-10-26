@@ -1,3 +1,3 @@
 # Tools
-There're many tools.
-Hello, it might help you.
+Hello, there're many tools.
+It might help you.
